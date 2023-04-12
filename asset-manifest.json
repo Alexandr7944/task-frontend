@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Alexandr7944/task-frontend/static/css/main.c3950160.css",
+    "main.js": "/Alexandr7944/task-frontend/static/js/main.a66b53a2.js",
+    "index.html": "/Alexandr7944/task-frontend/index.html",
+    "main.c3950160.css.map": "/Alexandr7944/task-frontend/static/css/main.c3950160.css.map",
+    "main.a66b53a2.js.map": "/Alexandr7944/task-frontend/static/js/main.a66b53a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3950160.css",
+    "static/js/main.a66b53a2.js"
+  ]
+}
